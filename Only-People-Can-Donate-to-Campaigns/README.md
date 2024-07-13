@@ -2,7 +2,13 @@
 
 ## The Amendment Text
 
+### Section 1
+
 Only individual humans can donate money, goods, or labor towards presidential candidates' campaigns for the office of U.S. President. The Presidential Election Campaign Fund may match individual humans' contributions.
+
+### Section 2
+
+Congress shall have the power to enforce this article by appropriate legislation.
 
 ## Supporting Information
 

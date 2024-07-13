@@ -2,7 +2,14 @@
 
 ## The Amendment Text
 
+### Section 1
+
 Campaigns for the office of U.S. President cannot begin more than 60 days before the selection of states' electors. A campaign includes advertisements and public gatherings by a candidate's supporters or critics.
+
+### Section 2
+
+Congress shall have the power to enforce this article by appropriate legislation.
+
 
 ## Supporting Information
 

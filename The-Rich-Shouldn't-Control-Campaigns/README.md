@@ -2,7 +2,13 @@
 
 ## The Amendment Text
 
+### Section 1
+
 The total monetary donations from an individual entity towards a Presidential candidate's campaign efforts cannot be more than one-tenth of the median annual income of U.S. total workers as found in the most recent U.S. census.
+
+### Section 2
+
+Congress shall have the power to enforce this article by appropriate legislation.
 
 ## Supporting Information
 
