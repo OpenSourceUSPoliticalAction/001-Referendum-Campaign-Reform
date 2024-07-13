@@ -2,6 +2,14 @@
 
 This is the workspace to draft a constitutional amendment for presidential campaign reform.
 
+## Table of Contents
+
+* [The Proposed Amendments](#the-proposed-amendments)
+* [Method of Amendment](#method-of-amendment)
+* [How to Participate](#how-to-participate)
+    * [I Want to Discuss Something](#i-want-to-discuss-something)
+    * [I Want to Propose a Change](#i-want-to-propose-a-change)
+
 ## The Proposed Amendments
 
 The below-linked amendments are meant to be as plain-English as possible for the average U.S. voter to understand while being legally robust. However, politicians and lobbyists are clever, so they should undergo the most intense scrutiny as possible by scholars and lawyers. We should also ensure that people skilled in public influence also review to ensure the fewest things possible could be misconstrued or twisted against the effort.
