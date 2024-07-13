@@ -2,7 +2,7 @@
 
 ## The Amendment Text
 
-The total donations from an individual entity towards a Presidential candidate cannot be more than twice the median income of a U.S. citizen as found in the most recent U.S. census.
+The total donations from an individual entity towards a Presidential candidate cannot be more than one-tenth of the median annual income of a U.S. citizen as found in the most recent U.S. census.
 
 ## Supporting Information
 
