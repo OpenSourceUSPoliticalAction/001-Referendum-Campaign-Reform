@@ -16,7 +16,7 @@ The below-linked amendments are meant to be as plain-English as possible for the
 
 1. [Only People Can Donate to Campaigns](Only-People-Can-Donate-to-Campaigns/README.md)
 2. [Campaigns Should Be Short](Campaigns-Should-Be-Short/README.md)
-3. [The Rich Shouldn't Control Campains](The-Rich-Shouldn't-Control-Campaigns/README.md)
+3. [The Rich Shouldn't Control Campaigns](The-Rich-Shouldn't-Control-Campaigns/README.md)
 
 Note that these amendments are intentionally separated. They should be as short as possible. Each amendment should be beneficial on its own, though the best results would be the ratification of all three.
 
